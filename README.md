@@ -1,19 +1,19 @@
 # Blockcraft
 
-Simple Minecraft clone with ursina and pygame
+Simple Minecraft Clone prototip made with Pygame, Ursina.
 
 # Installation
 
-Pip install pygame
+- pip install pygame
 
-Pip install ursina
+- pip install ursina
 
-# Webite 
- 
- pass
+# Live Demo
 
++ Live Demo will publish until 20th Feb 2022.
 
-Some Photos from the game
+-------------------------------------------------------------------------------
+ - Some Photos from the game
 -------------------------------------------------------------------------------
 
 
